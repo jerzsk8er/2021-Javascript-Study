@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Daily Challenge</title>
+    <script>
+        function showButton(){
+            var btn = document.getElementById("btn");
+            btn.style.display = "block";
+        }
+        function embiggen(){
+            var img = document.getElementById("image");
+            img.style.width = "200%";
+        }
+    </script>
+</head>
+<body>
+<img src="../Applications/img/matrixFlying.jpg" id="image" width="100"/>
+<div style="background: cyan" id="text" onclick="showButton()">Some Text</div>
+<button id="btn" style="display: none;" onmouseover="embiggen()">Wanna see a trick?</button>
+</body>
+</html>
