@@ -4,5 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../2021-CSS-Study" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../2021_Javascript_Unit_Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RiseVision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../websitetesting" vcs="Git" />
   </component>
 </project>
